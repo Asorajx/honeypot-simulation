@@ -75,6 +75,4 @@ Both virtual machines were configured using a Host-Only Adapter to maintain an i
 
 ## Documentation
 
-Full project report:
-
-[P01-honeypot-simulation.pdf](P01-honeypot-simulation.pdf)
+Full project report: [P01-honeypot-simulation.pdf](P01-honeypot-simulation.pdf)
