@@ -55,7 +55,7 @@ The project was built using two virtual machines inside Oracle VirtualBox:
 | Ubuntu 22.04 | Honeypot host running Cowrie |
 | Kali Linux | Attacker machine used for SSH testing |
 
-Both virtual machines were configured using a Host-Only Adapter to maintain an isolated testing environment. :contentReference[oaicite:2]{index=2}
+Both virtual machines were configured using a Host-Only Adapter to maintain an isolated testing environment.
 
 ## Setup Summary
 
